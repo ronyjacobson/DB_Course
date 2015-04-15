@@ -1,0 +1,1 @@
+mysql -u sakila -h mysqlsrv.cs.tau.ac.il sakila -p
